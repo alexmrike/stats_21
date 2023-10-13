@@ -1,0 +1,4 @@
+Attributes:
+- Eye Color: Blue
+- Hair Color: Brown
+- Height: 6' 2"
